@@ -12,7 +12,6 @@ This project demonstrates my ability to structure, style, and deploy a full-stac
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Data**: Static data via local JSON
 - **Deployment**: [Vercel](https://vercel.com/)
 
 ---
