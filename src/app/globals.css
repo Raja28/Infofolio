@@ -64,10 +64,7 @@
 .holographic-container {
   display: flex;
   flex-wrap: wrap;
-  /* justify-content: center; */
-  /* align-items: center;  */
-  /* height: 100vh; */
-  /* background: #000; */
+
 }
 
 .holographic-card {
