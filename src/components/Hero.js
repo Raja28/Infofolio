@@ -21,7 +21,7 @@ export default function Hero() {
             <div className="flex mt-8 mb-4 flex-wrap-reverse lg:flex-nowrap">
                 {/* left */}
                 <div className="w-full flex flex-col items-center lg:items-start">
-                    <div className="animate-charcter font-bold text-2xl xs:text-xl flex flex-col items-center lg:items-start justify-center my-5">
+                    <div className="animate-charcter font-bold text-[1.4rem] xs:text-xl flex flex-col items-center lg:items-start justify-center my-5">
                         <p className="">Hi, My name is</p>
                         <p className="">Raja S</p>
                         <p>I build things for web</p>
@@ -44,8 +44,8 @@ export default function Hero() {
                     <div className="border-8 rounded-full box">
                         <Image
                             src={"/avatar.png"}
-                            height={160}
-                            width={160}
+                            height={155}
+                            width={155}
                             priority
                             alt="user avatar"
                             className=" rounded-full xs:size-32"
