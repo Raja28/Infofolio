@@ -5,7 +5,7 @@ import Image from "next/image";
 const imageList = [
     { src: '/HTML.png', label: "HTML", alt: 'HTML image', width: 1200, height: 600 },
     { src: '/CSS.png', label: "CSS", alt: 'CSS image', width: 1200, height: 600 },
-    { src: '/JS.png', label: "HTML", alt: 'JavaScript image', width: 1200, height: 600 },
+    { src: '/JS.png', label: "JavaScript", alt: 'JavaScript image', width: 1200, height: 600 },
     { src: '/ReactJS.png', label: "React JS", alt: 'React image', width: 1200, height: 600 },
     { src: '/ReduxToolkit.png', label: "ReduxToolkit", alt: 'Redux Toolkit image', width: 1200, height: 600 },
     { src: '/NodeJS.png', label: "Node JS", alt: 'Node image', width: 1200, height: 600 },
